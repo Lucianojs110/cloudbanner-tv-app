@@ -313,10 +313,10 @@ const styles = StyleSheet.create({
         marginTop: 20,
     },
     singleImgBig: {
-        width: 350,
-        height: 280,
+        width: 450,
+        height: 380,
         marginRight: 46,
-        marginLeft: 10,
+        marginLeft: 0,
         backgroundColor: "#f4f4f4",
     },
     singleInfoBoxBig: {
